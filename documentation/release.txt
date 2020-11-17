@@ -1,0 +1,34 @@
+Release note
+
+--Header--
+Product Name: SpringWebMvcDemo2
+Release Number: 1
+Version Number: 1.0
+Release Date: 28/09/2020
+
+--Overview-- 
+My task was to develop a dynamic web application based on eCommerce domain
+
+As a primary user (Customer)
+
+1) Should be able to register
+2) Should be able to login
+3) View profile
+4) Update Profile
+5) Add product to cart
+6) Update cart (delete product from cart)
+7) Proceed to checkout (Don't need payment gateway)
+
+Minimum expectations
+
+	Spring WEB MVC module
+	Spring Data JPA
+	Sessions in Spring
+	Validations
+	Unit testing
+
+	
+	
+--Issue Summary--
+I was not able to implement in time the validations and the unit testing. Othervise the application delivers
+the expected behaviours and fulfills the requirements. 

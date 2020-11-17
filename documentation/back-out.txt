@@ -1,0 +1,23 @@
+Delivery note
+
+--SpringWebMvcDemo2--
+
+
+--Back-out plan-- 
+
+To remove the files from your documents, right click and select 'delete'
+Remove from the trash as well. 
+
+The files you should remove are in the SpringWebMvcDemo2 folder created upon installation of this app.
+So right click on this folder and delete (this will delete the jar file and all folders inside it)
+
+This is the first version so there is no back-up application to install instead.
+
+--Version-- 
+Version number: 1.0
+Release Date: 08/10/2020
+Implementation version: 1.0
+Author: Miklós Tóth
+
+--Contact--
+If any issues occur please contact the author at Slack by the name Miklos Toth (mthree Java)

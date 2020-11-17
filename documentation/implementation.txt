@@ -1,0 +1,66 @@
+Delivery note
+
+--SpringWebMvcDemo2-- application name
+
+--Prerequisites--
+Java Runtime Environment version 14:
+On Windows:
+1) Hit Win+r
+2) Type "cmd" and press enter
+3) In the cmd window type "java -version"
+
+
+On Mac:
+1) Open spotlight
+2) Type "terminal"
+3) In the terminal window type "java -version"
+
+Ensure you have the following output when you type "java -version" in the command line:
+1) openjdk version 14.0.1. 
+2) openjdk runtime environment adoptopenjdk build 14.0.1+7. 
+3) OpenJDK 64-Bit Server VM AdoptOpenJDK (build 14.0.1+7, mixed mode, sharing).
+As a minimum java requirement.
+ 
+If you do not then download and install java 14 from https://adoptopenjdk.net/
+(https://java.tutorials24x7.com/blog/how-to-install-java-14-on-windows)
+
+--Implementation-- 
+
+On Windows:
+1) Open File Explorer
+2) Navigate to "c:\Program Files"
+3) Create new folder called "SpringWebMvcDemo2"
+4) Download jar file and the four folders (backup, data, extra files, orders) 
+5) Open Another File Explorer
+6) Drag and drop both files from Downloads into the SpringWebMvcDemo2 folder just created.
+7) Hit Win+r
+8) Type "cmd" and press enter
+9) Type "cd "c:Program Files\SpringWebMvcDemo2"" and execute
+10) Type "java -jar SpringWebMvcDemo2-0.1.jar"
+11) The program will run in the command line
+
+On Mac:
+1) Open Finder
+2) Open Documents folder
+3) Create new folder called "SpringWebMvcDemo2"
+4) Download jar file and the four folders (backup, data, extra files, orders)
+5) Open Another Finder
+6) Drag and drop both files from Downloads into the SpringWebMvcDemo2 folder just created.
+7) Open spotlight
+8) Type "terminal"
+9) Type "cd" and execute
+10) Type "cd Documents" and execute
+11) Type "cd SpringWebMvcDemo2" and execute
+12) Type "java -jar SpringWebMvcDemo2-0.1.jar"
+13) The program will run in the command line
+
+(KEEP jar and folders in the same SpringWebMvcDemo2 folder - DO NOT separate)
+
+--Version-- 
+Version number: 1.0
+Release Date: 08/10/2020
+Implementation version: 1.0
+Author: Miklós Tóth
+
+--Contact--
+If any issues occur please contact the author at Slack by the name Miklos Toth (mthree Java)
